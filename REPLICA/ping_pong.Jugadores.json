@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "673a83deef64e6abefc91573"
+  },
+  "id": "1",
+  "nombre": "Ruben",
+  "apellido": "Diaz",
+  "edad": "32",
+  "genero": "Masculino",
+  "categoria": "Senior",
+  "pais": "Mexico",
+  "entrenador_id": "1"
+},
+{
+  "_id": {
+    "$oid": "673a83deef64e6abefc91574"
+  },
+  "id": "2",
+  "nombre": "Adriana",
+  "apellido": "Vergara",
+  "edad": "23",
+  "genero": "Femenino",
+  "categoria": "Junior",
+  "pais": "Peru",
+  "entrenador_id": "2"
+},
+{
+  "_id": {
+    "$oid": "674baf4f294ab88ec0e5bf91"
+  }
+}]
